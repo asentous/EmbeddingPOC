@@ -1,0 +1,703 @@
+Text,Label
+We need a front-end developer in NYC,relevant
+What are the specs of the iPhone 13?,irrelevant
+Looking for a Python engineer in London,relevant
+Who won the football match yesterday?,irrelevant
+What are the data points need for the job description?,relevant
+How do you generate a job description?,relevant
+Bmw or mercedes?,irrelevant
+We are hiring a Software Engineer with 5 years of experience in Python.,relevant
+Looking for a Data Analyst to join our team. Must have experience with SQL and Tableau.,relevant
+Seeking a Full Stack Developer with knowledge of React and Node.js.,relevant
+Hiring a Senior Java Developer for a full-time position. Must have 8+ years of experience.,relevant
+Join us as a UX/UI Designer in New York. Proficiency in Figma and Adobe XD is required.,relevant
+We need a Project Manager with PMP certification and 3 years of experience managing software development teams.,relevant
+Searching for a Marketing Specialist with experience in digital marketing and SEO.,relevant
+"We are looking for a Cloud Engineer with knowledge of AWS, GCP, and Azure.",relevant
+Hiring a Network Administrator for a full-time role in Chicago. Experience with Cisco systems required.,relevant
+Looking for a DevOps Engineer familiar with CI/CD pipelines and automation tools like Jenkins.,relevant
+"Need a Frontend Developer with expertise in HTML, CSS, and JavaScript.",relevant
+Looking for a Database Administrator to manage MySQL and PostgreSQL databases.,relevant
+Join our IT Support team as a System Administrator. Must have experience in Windows and Linux environments.,relevant
+Hiring a Scrum Master to lead agile teams in software development projects.,relevant
+Seeking a Business Analyst with knowledge of business process modeling and workflow automation.,relevant
+We are hiring a Software Tester with experience in automated testing using Selenium and Python.,relevant
+Join us as a Machine Learning Engineer to build AI models. Experience with TensorFlow is a must.,relevant
+Looking for a Mobile App Developer with experience in Flutter and Kotlin.,relevant
+We need an Information Security Specialist to manage our network security protocols.,relevant
+Seeking a Technical Support Specialist with strong customer service and troubleshooting skills.,relevant
+Can you recommend a good restaurant nearby?,irrelevant
+What is the weather like in San Francisco today?,irrelevant
+Where can I buy a new phone in this area?,irrelevant
+Can you help me with my personal budget for this month?,irrelevant
+What movies are showing in theaters tonight?,irrelevant
+How do I file a tax return for my small business?,irrelevant
+Can you tell me the best place to go hiking in Colorado?,irrelevant
+Where is the nearest coffee shop to the office?,irrelevant
+What is your favorite book to read on the weekends?,irrelevant
+Can you help me find a new apartment in the city?,irrelevant
+Do you know the opening hours of the local gym?,irrelevant
+What is the best vacation destination for families?,irrelevant
+Can you show me how to bake a cake from scratch?,irrelevant
+What is the capital city of Spain?,irrelevant
+How can I improve my public speaking skills?,irrelevant
+Where can I sign up for yoga classes?,irrelevant
+What are the current stock prices for Apple and Google?,irrelevant
+Can you recommend a good podcast for self-development?,irrelevant
+Do you know the best way to train for a marathon?,irrelevant
+How do I reset my phone to factory settings?,irrelevant
+We are hiring a Software Engineer with 5 years of experience in Python.,relevant
+Looking for a Data Analyst to join our team. Must have experience with SQL and Tableau.,relevant
+Seeking a Full Stack Developer with knowledge of React and Node.js.,relevant
+We need a Senior Project Manager with a background in managing cross-functional teams.,relevant
+"Hiring a DevOps Engineer with expertise in cloud infrastructure, specifically AWS.",relevant
+"Looking for a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks.",relevant
+Seeking a UX Designer to improve user experience across our digital platforms.,relevant
+Hiring a Recruiter with 3 years of experience in IT recruitment for technical roles.,relevant
+Looking for a Customer Support Specialist with strong communication skills.,relevant
+We are searching for a Database Administrator with experience in SQL Server and Oracle.,relevant
+Looking for a Content Writer experienced in writing tech-related articles and blogs.,relevant
+Seeking a Software Tester to conduct quality assurance on all software releases.,relevant
+Hiring a Human Resources Manager with knowledge of labor laws and employee relations.,relevant
+We need a Marketing Manager to lead digital campaigns and social media strategies.,relevant
+Looking for a Cybersecurity Analyst with expertise in network security and encryption.,relevant
+Hiring a Cloud Engineer with knowledge of Azure and Kubernetes for infrastructure design.,relevant
+We are hiring a Java Developer with experience in building scalable applications.,relevant
+Looking for a Business Analyst to work with our clients and deliver customized solutions.,relevant
+We are hiring a Product Manager with experience in launching digital products.,relevant
+Looking for a Network Engineer with a deep understanding of routing and switching.,relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+This coffee shop has the best lattes in the city.,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+This coffee shop has the best lattes in the city.,irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+This coffee shop has the best lattes in the city.,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"Planning to start a blog, any tips?",irrelevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Planning to start a blog, any tips?",irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+Anyone here play chess? Let's have a match!,irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Hiring a Cloud Engineer with expertise in Azure and Kubernetes. Location: London. Experience: 3+ years. Salary: $110,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"Planning to start a blog, any tips?",irrelevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+Anyone here play chess? Let's have a match!,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+I need to find a new book to read. Recommendations?,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+Where can I find the best deals on winter jackets?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+Hiring a Network Engineer with deep knowledge of routing and switching. Location: Dubai. Openings: 2.,relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+Anyone here play chess? Let's have a match!,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+I want to start a garden. Any tips for beginners?,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Looking for the best burger place in town. Anyone got recommendations?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+I need to find a new book to read. Recommendations?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+Looking for a Customer Support Specialist with excellent communication skills. Location: Remote. Openings: 5.,relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+"I just bought a new bike, and it's amazing!",irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Planning to start a blog, any tips?",irrelevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+I need suggestions for good hiking trails around the area.,irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+Just started a new hobby: painting! It's so relaxing.,irrelevant
+We are hiring a Database Administrator experienced in SQL Server and Oracle. Location: Dallas. Openings: 1.,relevant
+"We need a Backend Developer proficient in Python and AWS. Location: New York. Openings: 2. Salary: $115,000.",relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Going on a vacation next week, any travel tips?",irrelevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+Where can I find the best deals on winter jackets?,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Planning to start a blog, any tips?",irrelevant
+"Looking for a Marketing Manager with experience in digital campaigns. Location: Paris. Salary: $75,000.",relevant
+"We are hiring a Senior Software Engineer with 5 years of experience in Python. Location: New York. Skills: Python, Django. Openings: 2.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"Looking for a Junior Data Analyst. Location: Remote. Experience: 2+ years. Skills: SQL, Tableau. Salary: $60,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+Seeking a Cybersecurity Analyst with expertise in network security. Location: Berlin. Openings: 1.,relevant
+I need to find a new book to read. Recommendations?,irrelevant
+"I just adopted a puppy, and she's adorable!",irrelevant
+We are hiring a Product Manager with experience in launching digital products. Location: Sydney. Openings: 1.,relevant
+What's the best way to fix a flat tire on a bike?,irrelevant
+"Seeking a Frontend Developer skilled in HTML, CSS, and JavaScript frameworks. Location: Boston. Openings: 3.",relevant
+"We need a Human Resources Manager with knowledge of labor laws. Location: Remote. Experience: 5 years. Salary: $90,000.",relevant
+Anyone here play chess? Let's have a match!,irrelevant
+"Looking for an experienced DevOps Engineer specializing in cloud infrastructure (AWS). Location: Remote. Salary: $130,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+I want to start a garden. Any tips for beginners?,irrelevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"We are searching for a Full Stack Developer with experience in React and Node.js. Location: San Francisco. Salary: $120,000.",relevant
+"We are hiring a Java Developer with experience in building scalable apps. Location: Tokyo. Experience: 3 years. Salary: $85,000.",relevant
+"Going on a vacation next week, any travel tips?",irrelevant
+Does anyone know a good recipe for lasagna?,irrelevant
+This coffee shop has the best lattes in the city.,irrelevant
+"Looking for the best pizza in New York, any suggestions?",irrelevant
+"Hiring a Recruiter with 3 years of experience in IT recruitment. Location: New York. Skills: Talent acquisition, Communication.",relevant
+"Looking for a Business Analyst with client-facing skills. Location: Melbourne. Experience: 2+ years. Salary: $70,000.",relevant
+"We need a UX Designer to improve user experiences across all platforms. Location: Toronto. Experience: 4 years. Salary: $95,000.",relevant
+"Looking for a Junior Software Tester to conduct QA on software releases. Location: Singapore. Salary: $50,000.",relevant
+"Hiring a Senior Project Manager. Location: Chicago. Skills: Cross-functional team management, Agile methodologies. Openings: 1.",relevant

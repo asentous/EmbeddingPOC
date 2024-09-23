@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <style>
+        .error {
+            color: red;
+            font-size: 0.9em;
+        }
+        .alert {
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 5px;
+        }
+        .alert-danger {
+            color: white;
+            background-color: red;
+        }
+        .alert-success {
+            color: white;
+            background-color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Register Page</h1>
+
+    <!-- Flash messages -->
+    {% with messages = get_flashed_messages(with_categories=True) %}
+      {% if messages %}
+        {% for category, message in messages %}
+          <div class="alert alert-{{ category }}">{{ message }}</div>
+        {% endfor %}
+      {% endif %}
+    {% endwith %}
+
+    <!-- Registration form -->
+    <form method="POST" action="">
+        {{ form.hidden_tag() }}
+
+        <div>
+            {{ form.username.label }}<br>
+            {{ form.username }}
+            {% for error in form.username.errors %}
+                <div class="error">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div>
+            {{ form.password.label }}<br>
+            {{ form.password }}
+            {% for error in form.password.errors %}
+                <div class="error">{{ error }}</div>
+            {% endfor %}
+        </div>
+
+        <div>
+            {{ form.submit }}
+        </div>
+    </form>
+
+    <a href="{{ url_for('login') }}">Already have an account? Log In</a>
+</body>
+</html>

@@ -1,0 +1,42 @@
+<!-- chatbot.html template -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Job Description Generator</h1>
+        
+        <!-- Form for user input -->
+        <form method="POST" action="{{ url_for('chatbot') }}">
+            <div class="form-group">
+                <label for="user_input">Enter details (Company Name, Location, Salary, etc.):</label>
+                <textarea class="form-control" id="user_input" name="user_input" rows="4"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Generate Job Description</button>
+        </form>
+
+        <!-- Display flash messages -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+          {% if messages %}
+            <div>
+              {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">{{ message }}</div>
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endwith %}
+
+        <!-- Form to find suitable candidates -->
+        <form method="POST" action="{{ url_for('find_candidates') }}" id="find-candidates-form">
+            <!-- Hidden field to pass the job_id -->
+            <input type="hidden" name="job_id" value="{{ session['generated_job_id'] }}">
+            <button type="submit" class="btn btn-primary" id="find-candidates-button">Find Suitable Candidates</button>
+        </form>
+    </div>
+</body>
+</html>
